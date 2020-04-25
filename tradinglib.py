@@ -1,8 +1,7 @@
-"""CSC 161 Project: Milestone IV Libray Extra Credit
+"""
 
 Sylvester Benson-Sesay
-Lab Section TR 12:30-1:45pm
-Spring 2019
+
 """
 # File: tradinglib.py
 
